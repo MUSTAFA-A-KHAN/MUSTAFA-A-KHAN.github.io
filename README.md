@@ -20,7 +20,7 @@ dont worry.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](http://MUSTAFA-A-KHAN.github.io) and ![Image](src)
 ```
 
 I am too much to understand.
