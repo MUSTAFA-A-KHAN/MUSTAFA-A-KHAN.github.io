@@ -17,8 +17,8 @@ I'm passionate about my career.
 - Bulleted
 - List
 ```
--SDE
--JAVA
+- SDE
+- JAVA
 
 1. Numbered
 2. List
