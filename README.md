@@ -17,6 +17,9 @@ I'm passionate about my career.
 - Bulleted
 - List
 ```
+- Bulleted
+- List
+
 - SDE
 - JAVA
 
