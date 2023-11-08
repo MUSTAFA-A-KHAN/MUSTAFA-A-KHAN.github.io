@@ -13,8 +13,12 @@ I'm passionate about my career.
 ## insta mustafa.khan__
 ### fb na
 
+```
 - Bulleted
 - List
+```
+-SDE
+-JAVA
 
 1. Numbered
 2. List
