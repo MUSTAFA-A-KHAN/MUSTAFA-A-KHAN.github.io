@@ -1,6 +1,6 @@
 ## Welcome to Khanworld
 
-You can use [this url to view my work](https://github.com/MUSTAFA-A-KHAN/MUSTAFA-A-KHAN.github.io/edit/main/README.md).
+You can use [this url ](https://github.com/MUSTAFA-A-KHAN/MUSTAFA-A-KHAN.github.io/edit/main/README.md)to view my work.
 
 Don't worry.
 I'm passionate about my career.
