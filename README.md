@@ -10,7 +10,7 @@ I'm passionate about my career.
 
 
 # youtube [PUBHUB](https://www.youtube.com/@pubhub3434)
-## insta mustafa.khan__
+## insta [mustafa.khan__]([https://www.youtube.com/@pubhub3434](https://www.instagram.com/mustafa._khan_/))
 ### fb na
 
 ```
