@@ -26,6 +26,7 @@ I'm passionate about my career.
 
 1. Numbered
 2. List
+3. Example
 
 **Bold** and _Italic_ and `Code` text
 
